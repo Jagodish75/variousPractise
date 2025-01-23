@@ -93,11 +93,11 @@
 // const myObj = Object.fromEntries(fruits);
 // console.log(myObj);
 
-const person = {
-    firstName: "John",
-    lastName: "Doe",
-    age: 50,
-    eyeColor: "blue",
-};
-let text = Object.values(person);
-console.log(text);
+// const person = {
+//     firstName: "John",
+//     lastName: "Doe",
+//     age: 50,
+//     eyeColor: "blue",
+// };
+// let text = Object.values(person);
+// console.log(text);
