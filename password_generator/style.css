@@ -1,0 +1,13 @@
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(45deg, red, green);
+}
+.container {
+    border: 1px solid white;
+    padding: 15px;
+    border-radius: 10px;
+}
